@@ -14,6 +14,8 @@
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
+<br>
+[Windows Deviance](https://github.com/sourceduty/Windows_Deviance)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
