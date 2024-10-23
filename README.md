@@ -13,12 +13,9 @@
 
 | OS Type                         | Single Developer       | Small Team (2–5 devs)  | Medium Team (6–10 devs) | Large Team (11+ devs)  |
 |----------------------------------|-----------------------|-----------------------|-------------------------|-----------------------|
-| Minimal OS                      | 6 months – 1 year      | 3 – 6 months          | 2 – 4 months            | 1 – 3 months          |
-| (Bootloader, Kernel, Basic Shell)|                       |                       |                         |                       |
-| Mid-Level OS                    | 1.5 – 2 years          | 9 – 12 months         | 6 – 9 months            | 4 – 6 months          |
-| (GUI, Networking, Drivers)       |                       |                       |                         |                       |
-| Full-Featured OS                | 3 – 5 years            | 1.5 – 2.5 years       | 1 – 1.5 years           | 9 – 12 months         |
-| (Multi-User, GUI, Network Stack) |                       |                       |                         |                       |
+| Minimal OS (Bootloader, Kernel, Basic Shell) | 6 months – 1 year      | 3 – 6 months          | 2 – 4 months            | 1 – 3 months          |
+| Mid-Level OS (GUI, Networking, Drivers) | 1.5 – 2 years          | 9 – 12 months         | 6 – 9 months            | 4 – 6 months          |
+| Full-Featured OS (Multi-User, GUI, Network Stack) | 3 – 5 years            | 1.5 – 2.5 years       | 1 – 1.5 years           | 9 – 12 months         |
 
 This table provides an estimate of the time required to develop different types of operating systems based on the size of the development team. For a Minimal OS with basic components like a bootloader, kernel, and shell, a single developer might take 6 months to a year, while a large team of 11 or more developers could complete it in 1 to 3 months. A Mid-Level OS, which includes features such as a GUI, networking, and drivers, would take a single developer 1.5 to 2 years, but a large team can finish it in 4 to 6 months. For a Full-Featured OS, with advanced capabilities like multi-user support, a comprehensive GUI, and a network stack, a single developer may need 3 to 5 years, while large teams can complete it in under a year. These estimates highlight how team size can significantly accelerate the development process as complexity increases.
 
