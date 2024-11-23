@@ -60,6 +60,8 @@ Notes:
 [Windows Deviance](https://github.com/sourceduty/Windows_Deviance)
 <br>
 [Shortbar](https://github.com/sourceduty/Shortbar)
+<br>
+[OS Automation](https://github.com/sourceduty/OS_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
