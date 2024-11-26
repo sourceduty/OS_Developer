@@ -73,6 +73,8 @@ Notes:
 [OS Automation](https://github.com/sourceduty/OS_Automation)
 <br>
 [OS Mockups](https://osm.fandom.com/wiki/OS_Mockups_Wiki)
+<br>
+[Red Star OS](https://en.wikipedia.org/wiki/Red_Star_OS)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
