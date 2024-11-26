@@ -71,6 +71,8 @@ Notes:
 [Shortbar](https://github.com/sourceduty/Shortbar)
 <br>
 [OS Automation](https://github.com/sourceduty/OS_Automation)
+<br>
+[OS Mockups](https://osm.fandom.com/wiki/OS_Mockups_Wiki)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
