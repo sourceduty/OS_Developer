@@ -16,6 +16,19 @@ Developing an operating system is a complex task, but the easiest path depends o
 For those with more experience, customizing an existing OS like Linux can provide an easier and more practical alternative. By using tools like Buildroot or Yocto, you can configure a lightweight Linux distribution tailored to specific needs without starting entirely from scratch. This approach leverages the mature Linux kernel while letting you focus on features like drivers, user interfaces, or package management. If you're interested in real-time systems or working with constrained hardware, developing a small embedded OS or customizing an RTOS like FreeRTOS can also be a great choice. These options offer a more focused scope, helping you balance learning and functionality.
 
 #
+### Funnny OSs
+
+| OS Name          | Description                                                                 | Notable Feature                                  | Link                              |
+|-------------------|-----------------------------------------------------------------------------|-------------------------------------------------|-----------------------------------|
+| Hannah Montana Linux | A Linux distro themed around Hannah Montana, with customized wallpapers and icons. | Pop culture-inspired interface                  | [Hannah Montana Linux](https://www.makeuseof.com/best-weird-funny-meme-linux-distributions/) |
+| AmogOS           | A lightweight Linux distro inspired by "Among Us."                         | Humor combined with functionality               | [AmogOS](https://github.com/Amog-OS/AmogOS) |
+| TempleOS         | A biblical-themed OS created by a single developer, Terry A. Davis.        | Unique design with a spiritual focus            | [TempleOS](https://en.wikipedia.org/wiki/TempleOS) |
+| Windows 93       | An online parody of classic Windows operating systems.                     | Quirky applications and browser accessibility   | [Windows 93](https://www.windows93.net/) |
+| LCARS            | Fictional OS from Star Trek, featuring a futuristic graphical interface.    | Sci-fi inspired and visually distinctive design | [LCARS](https://en.wikipedia.org/wiki/LCARS) |
+
+Some operating systems are created not only for functionality but also for humor and artistic expression. Examples like Hannah Montana Linux or AmogOS bring pop culture to technology, while Windows 93 takes a nostalgic yet quirky spin on classic Windows versions. Other systems, such as TempleOS, showcase personal creativity and innovation, whereas LCARS captures the imagination of sci-fi enthusiasts. These creations demonstrate the diverse ways OS design can inspire both humor and creativity within the tech community.
+
+#
 ### Legacy Rollback
 
 ![Windows](https://github.com/user-attachments/assets/8941acd8-6de1-4718-9905-49b5a365aec6)
